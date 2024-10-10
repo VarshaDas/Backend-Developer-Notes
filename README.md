@@ -1,0 +1,1 @@
+This repo consists of notes that are discussed in the Youtube videos here - https://www.youtube.com/watch?v=FQxzg4gY_G0&list=PLBBK9G6O8MPDVnh4ANEuL9YfejSSdacSg&index=1&t=4s&ab_channel=CodeWithEase-ByVarsha
